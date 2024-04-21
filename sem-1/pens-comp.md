@@ -1,0 +1,1 @@
+1. Decomposição, abstração, reconhecimento de padrões e algoritmos
